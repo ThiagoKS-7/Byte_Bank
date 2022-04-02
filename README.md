@@ -4,6 +4,9 @@
 ![GitHub Version](https://img.shields.io/badge/version-0.0.1-blueviolet)
 
 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
 Nessa prática criaremos nosso primeiro app em Flutter. 
 A ideia aqui é fazer algo prático e do conhecimento da maioria, aproveitando para explanar alguns conceitos que serão úteis no desenvolvimento das suas aplicações.
 
