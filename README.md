@@ -1,7 +1,10 @@
 # Byte Bank: Criando um App de banco                 <img width="60" height="60" src="https://c.tenor.com/B4YHFlnDZxEAAAAM/perro-bailando-dog.gif"/>
+![GitHub](https://img.shields.io/badge/License-MIT-red)
+![Github InDev](https://img.shields.io/badge/project-in%20development-green)
+![GitHub Version](https://img.shields.io/badge/version-0.0.1-blueviolet)
+
+
 Nessa prática criaremos nosso primeiro app em Flutter. 
-
-
 A ideia aqui é fazer algo prático e do conhecimento da maioria, aproveitando para explanar alguns conceitos que serão úteis no desenvolvimento das suas aplicações.
 
 # Objetivo da prática
